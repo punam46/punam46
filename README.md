@@ -1,4 +1,4 @@
-![Visitors](https://komarev.com/ghpvc/?username=punam46&color=pink&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=punam46&color=ff69b4&style=flat)
 
 # Hi, I'm Punam Wadje 👋
 
