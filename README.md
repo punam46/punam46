@@ -6,7 +6,7 @@
 🔭 I'm currently building full-stack web apps with React and Node.js  
 🌱 I'm learning TypeScript and Docker  
 💬 Ask me about JavaScript, REST APIs, React, and MySQL  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR-LINK) · [Email](mailto:YOUR-EMAIL)  
+📫 Reach me: [LinkedIn](www.linkedin.com/in/punam-wadje-20a2b0287) · [Email](mailto:punamwadje@gmail.com)  
 📍 Based in Pune, India  
 
 ---
