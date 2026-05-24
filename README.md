@@ -84,5 +84,6 @@ Panchavati College of Management & Computer Science · CGPA: 8.09
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/punam46)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:punamwadje@gmail.com)
+[![Linkdin](https://img.shields.io/badge/Email-D14836?style=flat&logo=linkdin&logoColor=white)](www.linkedin.com/in/punam-wadje-20a2b0287)
 
 ![Visitors](https://komarev.com/ghpvc/?username=punam46&color=pink&style=flat)
