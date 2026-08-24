@@ -1,10 +1,12 @@
 <div align="center">
+  <h1>Hi 👋, I'm <a href="https://github.com/punam46">Punam</a></h1>
+  <h3>Full Stack Developer | Software Engineer | Tech Enthusiast</h3>
+
+  <br/>
+
   <img src="assets/developer-banner.png" alt="Punam's Developer Banner" width="100%" />
 
   <br/><br/>
-
-  <h1>Hi 👋, I'm <a href="https://github.com/punam46">Punam</a></h1>
-  <h3>Full Stack Developer | Software Engineer | Tech Enthusiast</h3>
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Passionate+Problem+Solver" alt="Typing SVG" />
