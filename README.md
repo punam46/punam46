@@ -21,11 +21,9 @@
 
 ### 💫 About Me
 
-- 🔭 **Currently working on:** Advanced Web Applications & Management Systems
-- 🌱 **Learning & Exploring:** Cloud Architecture, DevOps & Microservices
-- ⚡ **Specialization:** Full Stack Development with React, Node.js, Express & MongoDB
-- 💬 **Ask me about:** JavaScript, React, Node.js, REST APIs, Database Design
-- 📫 **How to reach me:** Connect with me on [GitHub](https://github.com/punam46)
+<div align="center">
+  <img src="assets/neofetch_profile.svg" alt="Punam's Profile Neofetch" width="100%" />
+</div>
 
 ---
 
