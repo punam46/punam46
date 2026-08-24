@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <img src="assets/j1.gif" width="600px" alt="Coding GIF" />
+    <img src="assets/j1.gif" width="800px" alt="Coding GIF" />
   </p>
 </div>
 
