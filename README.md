@@ -43,21 +43,4 @@
 
 ---
 
-### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punam46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Punam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punam46&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punam46&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
----
-
-<div align="center">
-  <p>⭐️ <i>Thanks for visiting my profile! Feel free to explore my repositories.</i> ⭐️</p>
-</div>
