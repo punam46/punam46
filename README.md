@@ -33,11 +33,11 @@
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Tools & OS** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **Languages** | <img src="assets/1.svg" height="40" alt="Python" /> <img src="assets/2.svg" height="40" alt="JavaScript" /> <img src="assets/8.svg" height="40" alt="HTML5" /> <img src="assets/9.svg" height="40" alt="CSS3" /> |
+| **Frontend** | <img src="assets/5.svg" height="40" alt="React" /> <img src="assets/4.svg" height="40" alt="Bootstrap" /> <img src="assets/10.svg" height="40" alt="Tailwind CSS" /> |
+| **Backend** | <img src="assets/10.svg" height="40" alt="Node.js" /> <img src="assets/10.svg" height="40" alt="Express.js" /> |
+| **Databases** | <img src="assets/10.svg" height="40" alt="MongoDB" /> <img src="assets/3.svg" height="40" alt="MySQL" /> |
+| **Tools & OS** | <img src="assets/7.png" height="40" alt="Git" /> <img src="assets/6.svg" height="40" alt="GitHub" /> <img src="assets/12.svg" height="40" alt="Postman" /> |
 
 </div>
 
