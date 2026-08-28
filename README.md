@@ -25,22 +25,7 @@
   <img src="assets/neofetch_profile.svg" alt="Punam's Profile Neofetch" width="100%" />
 </div>
 
----
-
 ### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](./assets/1.svg) ![JavaScript](./assets/2.svg) ![C](./assets/5.svg) ![HTML5](./assets/8.svg) ![CSS3](./assets/9.svg) |
-| **Cloud & Services** | ![Google Cloud](./assets/4.svg) |
-| **Databases** | ![MongoDB](./assets/10.svg) ![MySQL](./assets/3.svg) |
-| **Tools & OS** | ![Git](./assets/7.png) ![GitHub](./assets/6.svg) ![Postman](./assets/12.svg) |
-
-</div>
-
-<br/>
 
 <div align="center">
   <table>
